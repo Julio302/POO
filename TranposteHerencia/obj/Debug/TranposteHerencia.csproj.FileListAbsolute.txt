@@ -1,0 +1,6 @@
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\Solucion\TranposteHerencia\bin\Debug\TranposteHerencia.exe.config
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\Solucion\TranposteHerencia\bin\Debug\TranposteHerencia.exe
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\Solucion\TranposteHerencia\bin\Debug\TranposteHerencia.pdb
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\Solucion\TranposteHerencia\obj\Debug\TranposteHerencia.csprojResolveAssemblyReference.cache
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\Solucion\TranposteHerencia\obj\Debug\TranposteHerencia.exe
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\Solucion\TranposteHerencia\obj\Debug\TranposteHerencia.pdb

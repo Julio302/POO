@@ -1,0 +1,6 @@
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\Solucion\Abstraccion\bin\Debug\Abstraccion.exe.config
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\Solucion\Abstraccion\bin\Debug\Abstraccion.exe
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\Solucion\Abstraccion\bin\Debug\Abstraccion.pdb
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\Solucion\Abstraccion\obj\Debug\Abstraccion.csprojResolveAssemblyReference.cache
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\Solucion\Abstraccion\obj\Debug\Abstraccion.exe
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\Solucion\Abstraccion\obj\Debug\Abstraccion.pdb

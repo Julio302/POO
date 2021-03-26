@@ -1,0 +1,6 @@
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\Solucion\Factorial\bin\Debug\Factorial.exe.config
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\Solucion\Factorial\bin\Debug\Factorial.exe
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\Solucion\Factorial\bin\Debug\Factorial.pdb
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\Solucion\Factorial\obj\Debug\Factorial.csprojResolveAssemblyReference.cache
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\Solucion\Factorial\obj\Debug\Factorial.exe
+C:\Users\ALIEN10\Documents\FernandezGonzalezJulioAlberto\Solucion\Factorial\obj\Debug\Factorial.pdb
